@@ -1,3 +1,7 @@
+/**
+ * if we're asked to get a topView, when we deal with a node, if the level is already in hashmap,simple skip it;if not,put it into hashmap
+ */
+
 import java.util.TreeMap;
 import java.util.Map;
 import java.util.ArrayList;
