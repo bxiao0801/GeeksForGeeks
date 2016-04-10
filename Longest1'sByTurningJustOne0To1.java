@@ -1,5 +1,6 @@
 /*Given an array of 0s and 1s, find the position of 0 to be replaced with 1 to get longest continuous sequence of 1s. 
 **Expected time complexity is O(n) and auxiliary space is O(1).
+**Only 1 0 allowed to be flipped here
 */
 public class Solution{
 	public int maxLen(int[] nums){
