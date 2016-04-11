@@ -59,6 +59,5 @@ public class Solution{
 		root.right.left.right=new TreeNode(7);
 		Solution s=new Solution();
 		System.out.println(s.diagonalSum(root));
-
 	}
 }
